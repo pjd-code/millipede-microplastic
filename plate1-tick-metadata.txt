@@ -1,0 +1,84 @@
+sample-id	well	adapter-name 	i5-index-name	i5-index-forward-strand	i5-index-reverse-complement	i7-index-name	i7-index	date-collected	sex	genus	collection_source	status
+6N-2	F08	IDT8_i5_6/IDT8_i7_8	IDT8_i5_6	CCTTGTAG	CTACAAGG	IDT8_i7_8	ACGGAACA	2018	positive control	positive control	positive control	positive control
+6N-9	B03	IDT8_i5_2/IDT8_i7_3	IDT8_i5_2	TGGTACAG	CTGTACCA	IDT8_i7_3	TGAGCTAG	2018	positive control	positive control	positive control	positive control
+AA	A01	IDT8_i5_1/IDT8_i7_1	IDT8_i5_1	ATATGCGC	GCGCATAT	IDT8_i7_1	CTGATCGT	14-Dec-21	Female	Ixodes	Dragged	not engorged
+AB	C03	IDT8_i5_3/IDT8_i7_3	IDT8_i5_3	AACCGTTC	GAACGGTT	IDT8_i7_3	TGAGCTAG	14-Dec-21	Male	Ixodes	Dragged	not engorged
+AC	C04	IDT8_i5_3/IDT8_i7_4	IDT8_i5_3	AACCGTTC	GAACGGTT	IDT8_i7_4	GAGACGAT	14-Dec-21	Male	Ixodes	Dragged	not engorged
+AD	C02	IDT8_i5_3/IDT8_i7_2	IDT8_i5_3	AACCGTTC	GAACGGTT	IDT8_i7_2	ACTCTCGA	14-Dec-21	Female	Ixodes	Dragged	not engorged
+AE	C07	IDT8_i5_3/IDT8_i7_7	IDT8_i5_3	AACCGTTC	GAACGGTT	IDT8_i7_7	CGCATGAT	14-Dec-21	Female	Ixodes	Dragged	not engorged
+AF	F10	IDT8_i5_6/IDT8_i7_10	IDT8_i5_6	CCTTGTAG	CTACAAGG	IDT8_i7_10	ATCGATCG	14-Dec-21	Male	Ixodes	Dragged	not engorged
+AG	C10	IDT8_i5_3/IDT8_i7_10	IDT8_i5_3	AACCGTTC	GAACGGTT	IDT8_i7_10	ATCGATCG	14-Dec-21	Female	Ixodes	Dragged	not engorged
+AH	C11	IDT8_i5_3/IDT8_i7_11	IDT8_i5_3	AACCGTTC	GAACGGTT	IDT8_i7_11	GCAAGATC	14-Dec-21	Female	Ixodes	Dragged	not engorged
+AI	D03	IDT8_i5_4/IDT8_i7_3	IDT8_i5_4	TAACCGGT	ACCGGTTA	IDT8_i7_3	TGAGCTAG	14-Dec-21	Female	Ixodes	Dragged	not engorged
+BA	F01	IDT8_i5_6/IDT8_i7_1	IDT8_i5_6	CCTTGTAG	CTACAAGG	IDT8_i7_1	CTGATCGT	27-Nov-19	Female	Ixodes	Dragged	not engorged
+BB	E12	IDT8_i5_5/IDT8_i7_12	IDT8_i5_5	GAACATCG	CGATGTTC	IDT8_i7_12	GCTATCCT	27-Nov-19	Female	Ixodes 	Dragged	not engorged
+BC	A02	IDT8_i5_1/IDT8_i7_2	IDT8_i5_1	ATATGCGC	GCGCATAT	IDT8_i7_2	ACTCTCGA	27-Nov-19	Female	Ixodes 	Dragged	not engorged
+BD	E05	IDT8_i5_5/IDT8_i7_5	IDT8_i5_5	GAACATCG	CGATGTTC	IDT8_i7_5	CTTGTCGA	27-Nov-19	Female	Ixodes 	Dragged	not engorged
+BE	A11	IDT8_i5_1/IDT8_i7_11	IDT8_i5_1	ATATGCGC	GCGCATAT	IDT8_i7_11	GCAAGATC	27-Nov-19	Female	Ixodes 	Dragged	not engorged
+BF	B08	IDT8_i5_2/IDT8_i7_8	IDT8_i5_2	TGGTACAG	CTGTACCA	IDT8_i7_8	ACGGAACA	30-Nov-19	Female	Ixodes 	Dragged	not engorged
+BG	C01	IDT8_i5_3/IDT8_i7_1	IDT8_i5_3	AACCGTTC	GAACGGTT	IDT8_i7_1	CTGATCGT	30-Nov-19	Female	Ixodes	Dragged	not engorged
+BH	D08	IDT8_i5_4/IDT8_i7_8	IDT8_i5_4	TAACCGGT	ACCGGTTA	IDT8_i7_8	ACGGAACA	30-Nov-19	Female	Ixodes	Dragged	not engorged
+BI	D01	IDT8_i5_4/IDT8_i7_1	IDT8_i5_4	TAACCGGT	ACCGGTTA	IDT8_i7_1	CTGATCGT	30-Nov-19	Female	Ixodes	Dragged	not engorged
+C1	D04	IDT8_i5_4/IDT8_i7_4	IDT8_i5_4	TAACCGGT	ACCGGTTA	IDT8_i7_4	GAGACGAT	negative control	negative control	negative control	negative control	negative control
+C2	A09	IDT8_i5_1/IDT8_i7_9	IDT8_i5_1	ATATGCGC	GCGCATAT	IDT8_i7_9	CGGCTAAT	negative control	negative control	negative control	negative control	negative control
+C3	E11	IDT8_i5_5/IDT8_i7_11	IDT8_i5_5	GAACATCG	CGATGTTC	IDT8_i7_11	GCAAGATC	negative control	negative control	negative control	negative control	negative control
+C4	B11	IDT8_i5_2/IDT8_i7_11	IDT8_i5_2	TGGTACAG	CTGTACCA	IDT8_i7_11	GCAAGATC	negative control	negative control	negative control	negative control	negative control
+C5	F09	IDT8_i5_6/IDT8_i7_9	IDT8_i5_6	CCTTGTAG	CTACAAGG	IDT8_i7_9	CGGCTAAT	negative control	negative control	negative control	negative control	negative control
+C6	G04	IDT8_i5_7/IDT8_i7_4	IDT8_i5_7	TCAGGCTT	AAGCCTGA	IDT8_i7_4	GAGACGAT	negative control	negative control	negative control	negative control	negative control
+C7	G08	IDT8_i5_7/IDT8_i7_8	IDT8_i5_7	TCAGGCTT	AAGCCTGA	IDT8_i7_8	ACGGAACA	negative control	negative control	negative control	negative control	negative control
+C8	B09	IDT8_i5_2/IDT8_i7_9	IDT8_i5_2	TGGTACAG	CTGTACCA	IDT8_i7_9	CGGCTAAT	negative control	negative control	negative control	negative control	negative control
+CA	G09	IDT8_i5_7/IDT8_i7_9	IDT8_i5_7	TCAGGCTT	AAGCCTGA	IDT8_i7_9	CGGCTAAT	28-Nov-19	Female	Ixodes	Deer	engorged
+CB	B12	IDT8_i5_2/IDT8_i7_12	IDT8_i5_2	TGGTACAG	CTGTACCA	IDT8_i7_12	GCTATCCT	28-Nov-19	Female	Ixodes	Deer	engorged
+CC	G11	IDT8_i5_7/IDT8_i7_11	IDT8_i5_7	TCAGGCTT	AAGCCTGA	IDT8_i7_11	GCAAGATC	28-Nov-19	Female	Ixodes	Deer	engorged
+CD	B04	IDT8_i5_2/IDT8_i7_4	IDT8_i5_2	TGGTACAG	CTGTACCA	IDT8_i7_4	GAGACGAT	28-Nov-19	Female	Ixodes	Deer	engorged
+CE	C08	IDT8_i5_3/IDT8_i7_8	IDT8_i5_3	AACCGTTC	GAACGGTT	IDT8_i7_8	ACGGAACA	28-Nov-19	Female	Ixodes	Deer	engorged
+CF	E06	IDT8_i5_5/IDT8_i7_6	IDT8_i5_5	GAACATCG	CGATGTTC	IDT8_i7_6	TTCCAAGG	28-Nov-19	Female	Ixodes	Deer	engorged
+CG	A03	IDT8_i5_1/IDT8_i7_3	IDT8_i5_1	ATATGCGC	GCGCATAT	IDT8_i7_3	TGAGCTAG	28-Nov-19	Female	Ixodes	Deer	engorged
+CH	C06	IDT8_i5_3/IDT8_i7_6	IDT8_i5_3	AACCGTTC	GAACGGTT	IDT8_i7_6	TTCCAAGG	28-Nov-19	Female	Ixodes	Deer	engorged
+CI	D06	IDT8_i5_4/IDT8_i7_6	IDT8_i5_4	TAACCGGT	ACCGGTTA	IDT8_i7_6	TTCCAAGG	28-Nov-19	Female	Ixodes	Deer	engorged
+CN-39	C05	IDT8_i5_3/IDT8_i7_5	IDT8_i5_3	AACCGTTC	GAACGGTT	IDT8_i7_5	CTTGTCGA	2018	positive control	positive control	positive control	positive control
+DA	F06	IDT8_i5_6/IDT8_i7_6	IDT8_i5_6	CCTTGTAG	CTACAAGG	IDT8_i7_6	TTCCAAGG	2018	Female	Ixodes	Deer	not engorged
+DB	D07	IDT8_i5_4/IDT8_i7_7	IDT8_i5_4	TAACCGGT	ACCGGTTA	IDT8_i7_7	CGCATGAT	2018	Female	Ixodes	Deer	not engorged
+DC	D05	IDT8_i5_4/IDT8_i7_5	IDT8_i5_4	TAACCGGT	ACCGGTTA	IDT8_i7_5	CTTGTCGA	2018	Female	Ixodes	Deer	not engorged
+DD	D09	IDT8_i5_4/IDT8_i7_9	IDT8_i5_4	TAACCGGT	ACCGGTTA	IDT8_i7_9	CGGCTAAT	2018	Female	Ixodes	Deer	engorged
+DE	E03	IDT8_i5_5/IDT8_i7_3	IDT8_i5_5	GAACATCG	CGATGTTC	IDT8_i7_3	TGAGCTAG	2018	Female	Ixodes	Deer	engorged
+DF	A07	IDT8_i5_1/IDT8_i7_7	IDT8_i5_1	ATATGCGC	GCGCATAT	IDT8_i7_7	CGCATGAT	2018	Female	Ixodes	Deer	engorged
+DG	A04	IDT8_i5_1/IDT8_i7_4	IDT8_i5_1	ATATGCGC	GCGCATAT	IDT8_i7_4	GAGACGAT	2018	Female	Ixodes	Deer	engorged
+DH	E01	IDT8_i5_5/IDT8_i7_1	IDT8_i5_5	GAACATCG	CGATGTTC	IDT8_i7_1	CTGATCGT	2018	Female	Ixodes	Deer	engorged
+DI	D12	IDT8_i5_4/IDT8_i7_12	IDT8_i5_4	TAACCGGT	ACCGGTTA	IDT8_i7_12	GCTATCCT	2018	Male	Ixodes	Deer	not engorged
+EA	D10	IDT8_i5_4/IDT8_i7_10	IDT8_i5_4	TAACCGGT	ACCGGTTA	IDT8_i7_10	ATCGATCG	2019	Female	Ixodes	Deer	engorged
+EB	G07	IDT8_i5_7/IDT8_i7_7	IDT8_i5_7	TCAGGCTT	AAGCCTGA	IDT8_i7_7	CGCATGAT	2019	Female	Ixodes	Deer	engorged
+EC	A06	IDT8_i5_1/IDT8_i7_6	IDT8_i5_1	ATATGCGC	GCGCATAT	IDT8_i7_6	TTCCAAGG	2019	Female	Ixodes	Deer	not engorged
+ED	A05	IDT8_i5_1/IDT8_i7_5	IDT8_i5_1	ATATGCGC	GCGCATAT	IDT8_i7_5	CTTGTCGA	2019	Female	Ixodes	Deer	not engorged
+EE	A08	IDT8_i5_1/IDT8_i7_8	IDT8_i5_1	ATATGCGC	GCGCATAT	IDT8_i7_8	ACGGAACA	2019	Female	Ixodes	Deer	not engorged
+EF	B05	IDT8_i5_2/IDT8_i7_5	IDT8_i5_2	TGGTACAG	CTGTACCA	IDT8_i7_5	CTTGTCGA	2019	Female	Ixodes	Deer	not engorged
+EG	B06	IDT8_i5_2/IDT8_i7_6	IDT8_i5_2	TGGTACAG	CTGTACCA	IDT8_i7_6	TTCCAAGG	2019	Female	Ixodes	Deer	not engorged
+EH	D11	IDT8_i5_4/IDT8_i7_11	IDT8_i5_4	TAACCGGT	ACCGGTTA	IDT8_i7_11	GCAAGATC	2019	Female	Ixodes	Deer	not engorged
+EI	E02	IDT8_i5_5/IDT8_i7_2	IDT8_i5_5	GAACATCG	CGATGTTC	IDT8_i7_2	ACTCTCGA	2019	Female	Ixodes	Deer	not engorged
+FA	G05	IDT8_i5_7/IDT8_i7_5	IDT8_i5_7	TCAGGCTT	AAGCCTGA	IDT8_i7_5	CTTGTCGA	2020	Female	Ixodes	Deer	engorged
+FB	A10	IDT8_i5_1/IDT8_i7_10	IDT8_i5_1	ATATGCGC	GCGCATAT	IDT8_i7_10	ATCGATCG	2020	Female	Ixodes	Deer	engorged
+FC	D02	IDT8_i5_4/IDT8_i7_2	IDT8_i5_4	TAACCGGT	ACCGGTTA	IDT8_i7_2	ACTCTCGA	2020	Female	Ixodes	Deer	engorged
+FD	B07	IDT8_i5_2/IDT8_i7_7	IDT8_i5_2	TGGTACAG	CTGTACCA	IDT8_i7_7	CGCATGAT	2020	Female	Ixodes	Deer	engorged
+FE	A12	IDT8_i5_1/IDT8_i7_12	IDT8_i5_1	ATATGCGC	GCGCATAT	IDT8_i7_12	GCTATCCT	2020	Female	Ixodes	Deer	engorged
+FF	B01	IDT8_i5_2/IDT8_i7_1	IDT8_i5_2	TGGTACAG	CTGTACCA	IDT8_i7_1	CTGATCGT	2020	Female	Ixodes	Deer	engorged
+FG	C12	IDT8_i5_3/IDT8_i7_12	IDT8_i5_3	AACCGTTC	GAACGGTT	IDT8_i7_12	GCTATCCT	2020	Female	Ixodes	Deer	engorged
+FH	F04	IDT8_i5_6/IDT8_i7_4	IDT8_i5_6	CCTTGTAG	CTACAAGG	IDT8_i7_4	GAGACGAT	2020	Female	Ixodes	Deer	engorged
+FI	G02	IDT8_i5_7/IDT8_i7_2	IDT8_i5_7	TCAGGCTT	AAGCCTGA	IDT8_i7_2	ACTCTCGA	2020	Female	Ixodes	Deer	engorged
+GA	E08	IDT8_i5_5/IDT8_i7_8	IDT8_i5_5	GAACATCG	CGATGTTC	IDT8_i7_8	ACGGAACA	2020	Female	Ixodes	Dragged	not engorged
+GB	E10	IDT8_i5_5/IDT8_i7_10	IDT8_i5_5	GAACATCG	CGATGTTC	IDT8_i7_10	ATCGATCG	2020	Female	Ixodes	Dragged	not engorged
+GC	F02	IDT8_i5_6/IDT8_i7_2	IDT8_i5_6	CCTTGTAG	CTACAAGG	IDT8_i7_2	ACTCTCGA	2020	Female	Ixodes	Dragged	not engorged
+GD	F03	IDT8_i5_6/IDT8_i7_3	IDT8_i5_6	CCTTGTAG	CTACAAGG	IDT8_i7_3	TGAGCTAG	2020	Female	Ixodes	Dragged	not engorged
+GE	B02	IDT8_i5_2/IDT8_i7_2	IDT8_i5_2	TGGTACAG	CTGTACCA	IDT8_i7_2	ACTCTCGA	2020	Female	Ixodes	Dragged	not engorged
+GF	B10	IDT8_i5_2/IDT8_i7_10	IDT8_i5_2	TGGTACAG	CTGTACCA	IDT8_i7_10	ATCGATCG	2020	Female	Ixodes	Dragged	not engorged
+GG	G03	IDT8_i5_7/IDT8_i7_3	IDT8_i5_7	TCAGGCTT	AAGCCTGA	IDT8_i7_3	TGAGCTAG	2020	Female	Ixodes	Dragged	not engorged
+GH	F05	IDT8_i5_6/IDT8_i7_5	IDT8_i5_6	CCTTGTAG	CTACAAGG	IDT8_i7_5	CTTGTCGA	2020	Female	Ixodes	Dragged	not engorged
+GI	F11	IDT8_i5_6/IDT8_i7_11	IDT8_i5_6	CCTTGTAG	CTACAAGG	IDT8_i7_11	GCAAGATC	2020	Female	Ixodes	Dragged	not engorged
+HA	E04	IDT8_i5_5/IDT8_i7_4	IDT8_i5_5	GAACATCG	CGATGTTC	IDT8_i7_4	GAGACGAT	2018	Female	Ixodes	Deer	engorged
+HB	E09	IDT8_i5_5/IDT8_i7_9	IDT8_i5_5	GAACATCG	CGATGTTC	IDT8_i7_9	CGGCTAAT	2018	Female	Ixodes	Dragged	not engorged
+HC	G01	IDT8_i5_7/IDT8_i7_1	IDT8_i5_7	TCAGGCTT	AAGCCTGA	IDT8_i7_1	CTGATCGT	2018	Female	Ixodes	Dragged	not engorged
+HD	G10	IDT8_i5_7/IDT8_i7_10	IDT8_i5_7	TCAGGCTT	AAGCCTGA	IDT8_i7_10	ATCGATCG	2018	Female	Ixodes	Dragged	not engorged
+HE	E07	IDT8_i5_5/IDT8_i7_7	IDT8_i5_5	GAACATCG	CGATGTTC	IDT8_i7_7	CGCATGAT	2018	Female	Ixodes	Dragged	not engorged
+HF	F07	IDT8_i5_6/IDT8_i7_7	IDT8_i5_6	CCTTGTAG	CTACAAGG	IDT8_i7_7	CGCATGAT	2018	Female	Ixodes	Dragged	not engorged
+HG	C09	IDT8_i5_3/IDT8_i7_9	IDT8_i5_3	AACCGTTC	GAACGGTT	IDT8_i7_9	CGGCTAAT	2018	Female	Ixodes	Dragged	not engorged
+HH	G06	IDT8_i5_7/IDT8_i7_6	IDT8_i5_7	TCAGGCTT	AAGCCTGA	IDT8_i7_6	TTCCAAGG	2018	Female	Ixodes	Dragged	not engorged
+HI	F12	IDT8_i5_6/IDT8_i7_12	IDT8_i5_6	CCTTGTAG	CTACAAGG	IDT8_i7_12	GCTATCCT	2018	Female	Ixodes	Dragged	not engorged
